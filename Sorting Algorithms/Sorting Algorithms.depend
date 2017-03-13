@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1489370037 source:d:\software\sorting algorithms\main.cpp
+	<iostream>
+	"Sorting.h"
+	"src/Heap.cpp"
+
+1489370146 d:\software\sorting algorithms\include\sorting.h
+	<algorithm>
+	"Heap.h"
+
+1489359510 source:d:\software\sorting algorithms\src\sorting.cpp
+	"Sorting.h"
+
+1489370111 source:d:\software\sorting algorithms\src\heap.cpp
+	"Heap.h"
+	<assert.h>
+	<iostream>
+
+1489369505 d:\software\sorting algorithms\include\heap.h
+	<vector>
+
+1489370165 d:\software\sorting algorithms\src\heap.cpp
+	"Heap.h"
+	<assert.h>
+
