@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1489370037 source:d:\software\sorting algorithms\main.cpp
+	<iostream>
+	"Sorting.h"
+	"src/Heap.cpp"
+
+1489370146 d:\software\sorting algorithms\include\sorting.h
+	<algorithm>
+	"Heap.h"
+
+1489359510 source:d:\software\sorting algorithms\src\sorting.cpp
+	"Sorting.h"
+
+1489370111 source:d:\software\sorting algorithms\src\heap.cpp
+	"Heap.h"
+	<assert.h>
+	<iostream>
+
+1489369505 d:\software\sorting algorithms\include\heap.h
+	<vector>
+
+1489370165 d:\software\sorting algorithms\src\heap.cpp
+	"Heap.h"
+	<assert.h>
+
+1489673606 source:c:\users\mohamed ayman\desktop\dsii\sorting algorithms\main.cpp
+	<iostream>
+	"include/Sorting.h"
+	<random>
+	<bits/stdc++.h>
+	<ctime>
+
+1489407261 c:\users\mohamed ayman\desktop\dsii\sorting algorithms\include\sorting.h
+	<algorithm>
+	<vector>
+	"Heap.h"
+
+1489665558 c:\users\mohamed ayman\desktop\dsii\sorting algorithms\include\heap.h
+	<vector>
+	<algorithm>
+	<assert.h>
+
+1489403793 c:\users\mohamed ayman\desktop\dsii\sorting algorithms\src\heap.cpp
+	"../include/Heap.h"
+	<assert.h>
+
+1489405957 source:c:\users\mohamed ayman\desktop\dsii\sorting algorithms\src\heap.cpp
+	"../include/Heap.h"
+	<assert.h>
+
+1489404255 c:\users\mohamed ayman\desktop\dsii\sorting algorithms\src\sorting.cpp
+	"../include/Sorting.h"
+	"../include/Heap.h"
+
+1489404263 source:c:\users\mohamed ayman\desktop\dsii\sorting algorithms\src\sorting.cpp
+	"../include/Sorting.h"
+	"../include/Heap.h"
+
