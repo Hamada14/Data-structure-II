@@ -20,3 +20,7 @@ f-Heap Sort
 
 
 2- Max Binary Heap Data structure.
+
+3- AVL Tree used for Dictionary.
+	GUI and ASCII visualisers where made to ease the debugging
+	of the AVL code and to animate the rotation process.
